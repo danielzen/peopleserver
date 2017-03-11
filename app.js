@@ -129,6 +129,7 @@ function runApplication(initData) {
         people[i].middle = person.middle;
         people[i].gender = person.gender;
         people[i].ssn = person.ssn;
+        people[i].salary = person.salary;
         people[i].birthDate = person.birthDate;
         person = people[i];
         found = true;
